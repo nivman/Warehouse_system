@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['add_quote']                      = "הוספת הצעת מחיר";
+$lang['edit_quote']                     = "עדכון הצעת מחיר";
+$lang['delete_quote']                   = "מחיקת הצעת מחיר";
+$lang['delete_quotes']                  = "מחיקת הצעות מחיר";
+$lang['quote_added']                    = "הצעת מחיר נוצרה בהצלחה";
+$lang['quote_updated']                  = "הצעת מחיר עודכנה בהצלחה";
+$lang['quote_deleted']                  = "הצעת מחיר נמחקה בהצלחה";
+$lang['quotes_deleted']                 = "הצעות מחיר נמחקו בהצלחה";
+$lang['quote_details']                  = "פרטי הצעת מחיר";
+$lang['email_quote']                    = "שלח במייל הצעת מחיר";
+$lang['view_quote_details']             = "צפה בהצעת המחיר";
+$lang['quote_no']                       = "מספר הצעת מחיר";
+$lang['send_email']                     = "שלח מייל";
+$lang['quote_items']                    = "פריטי הצעת המחיר";
+$lang['no_quote_selected']              = "לא נבחרה הצעת מחיר.נא בחר לפחות הצעת מחיר אחרת.";
+$lang['create_sale']                    = "צור מכירה";
+$lang['create_purchase']                = "צור קנייה";
+$lang['create_invoice']                 = "צור מכירה";

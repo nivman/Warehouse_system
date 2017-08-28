@@ -1,0 +1,24 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['add_supplier']                       = "הוסף ספק";
+$lang['edit_supplier']                      = "עדכן ספק";
+$lang['delete_supplier']                    = "מחק ספק";
+$lang['delete_suppliers']                   = "מחק ספקים";
+$lang['supplier_added']                     = "ספק נוצר בהצלחה";
+$lang['suppliers_added']                    = "ספקים נוצרו בהצלחה";
+$lang['supplier_updated']                   = "ספק עודכן בהצלחה";
+$lang['supplier_deleted']                   = "ספק נמחק בהצלחה";
+$lang['suppliers_deleted']                  = "ספקים נמחקו בהצלחה";
+$lang['import_by_csv']                      = "הוספת ספק בעזרת קובץ אקסל";
+$lang['edit_profile']                       = "עדכן לקוח";
+$lang['delete_user']                        = "מחק לקוח";
+$lang['no_supplier_selected']               = "לא נבחר ספק.נא בחר לפחות ספק אחד.";
+$lang['pw_not_same']                        = "סיסמאות לא תואמות";
+$lang['user_added']                         = "משתמש ספק נוצר בהצלחה";
+$lang['user_deleted']                       = "משתמש ספק נמחק בהצלחה";
+$lang['supplier_x_deleted_have_purchases']  = "פעולה נכשלה!יש לספק קניות";
+$lang['suppliers_x_deleted_have_purchases'] = "חלק מהספקים אינם ניתנים למחיקה בגלל שיש להם קניות";
+$lang['check_supplier_email']               = "בבקשה בדוק את אימייל הספק";
+$lang['supplier_already_exist']             = "קיים ספק עם האימייל הזה";
+$lang['line_no']                            = "מספר שורה";
+$lang['first_6_required']                   = "שש השורות הרשאונות הם חובה.";
